@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Welcome to my first draft"
 date: 2026-11-18
 ---
